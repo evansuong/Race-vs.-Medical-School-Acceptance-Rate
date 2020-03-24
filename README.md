@@ -1,0 +1,2 @@
+# group087_wi20
+Project data will determine whether or not race/ethnicity has a factor in acceptance rate to medical schools besides gpa/MCAT scores. Aside from race/ethnicity we will also look at correlations between gender and acceptance rates. From the data we collected we concluded that medical school acceptance is slightly higher for Native Americans, Whites, and Asians. However, when factoring in gpa/MCAT score it was evident that acceptance rates were higher for African Americans, and Hispanics.
